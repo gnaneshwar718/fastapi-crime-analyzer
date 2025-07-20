@@ -1,0 +1,32 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Uploaded media
+uploaded_videos/
+extracted_frames/
+
+# Model weights and checkpoints
+*.pth
+crime_model/datasets/
+
+# System files
+*.log
+*.DS_Store
+Thumbs.db
+
+# Python packaging
+*.egg-info/
+dist/
+build/
