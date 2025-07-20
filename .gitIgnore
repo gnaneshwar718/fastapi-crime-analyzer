@@ -1,0 +1,11 @@
+
+__pycache__/
+
+.vscode/
+
+uploaded_videos/
+extracted_frames/
+
+# Model weights and checkpoints
+*.pth
+crime_model/datasets/
